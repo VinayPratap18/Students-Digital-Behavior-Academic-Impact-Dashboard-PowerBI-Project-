@@ -50,6 +50,3 @@ This project demonstrates my ability to clean, model, and analyze data while des
 
 🚀 Live Dashboard
 https://app.powerbi.com/groups/me/reports/93006229-6a5b-4304-9208-beaa469d57a4?ctid=16bea6f3-6986-4669-bd31-46a94f0c5714&bookmarkGuid=0fcde827-51e8-4fb3-ad9b-56d24ea80404&experience=power-bi
-🚀 Live Dashboard
-
-🔗 https://app.powerbi.com/links/3xHi8evK5G?ctid=16bea6f3-6986-4669-bd31-46a94f0c5714&pbi_source=linkShare&bookmarkGuid=0fcde827-51e8-4fb3-ad9b-56d24ea80404
