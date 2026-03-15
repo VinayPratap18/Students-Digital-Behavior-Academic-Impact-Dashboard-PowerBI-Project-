@@ -4,6 +4,8 @@ Power BI dashboard analyzing students’ digital behavior and its impact on acad
 📊 Students Digital Behavior & Academic Impact Dashboard
 📌 Overview
 
+![image alt](https://github.com/VinayPratap18/Students-Digital-Behavior-Academic-Impact-Dashboard-PowerBI-Project-/blob/main/Screenshot%202026-03-15%20234516.png)
+
 This Power BI project explores how students’ digital behavior impacts academic performance, sleep patterns, and addiction levels. The objective was to transform raw student data into meaningful insights through interactive visual storytelling and dashboard design.
 
 The dashboard highlights how social media usage influences student lifestyle and academic outcomes across different age groups, genders, and academic levels.
